@@ -4,8 +4,7 @@ A modern **Ruby on Rails 7.2** application that analyzes daily results and gener
 
 🔗 **Live Demo:** https://resultanalyser-production-df59.up.railway.app/
 
----
-<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/b78b58bc-2c3e-4a31-8065-13d064b46a33" />
+<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/80cc74a8-577a-41ef-bdf8-57cca48cfbdd" />
 
 ## ✨ Features
 
