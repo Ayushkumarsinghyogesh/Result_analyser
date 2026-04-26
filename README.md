@@ -1,24 +1,55 @@
-# README
+# 🚀 Result Analyzer
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A modern **Ruby on Rails 7.2** application that analyzes daily results and generates monthly statistics automatically.
 
-Things you may want to cover:
+🔗 **Live Demo:** https://resultanalyser-production-df59.up.railway.app/
 
-* Ruby version
+---
+<img width="1920" height="1046" alt="image" src="https://github.com/user-attachments/assets/35b30d1b-9724-48d2-a999-5f13b0d8d13a" />
 
-* System dependencies
+## ✨ Features
 
-* Configuration
+- 📊 Track daily statistics
+- 📈 Generate monthly aggregated reports
+- ⚙️ Background job processing (ActiveJob)
+- 🚀 Optimized PostgreSQL queries
+- 🖥️ Simple dashboard UI
+- 🔄 Manual trigger for monthly job
 
-* Database creation
+---
 
-* Database initialization
+## 🛠️ Tech Stack
 
-* How to run the test suite
+| Technology | Version |
+|-----------|--------|
+| Ruby | 3.2.9 |
+| Rails | 7.2.3 |
+| Database | PostgreSQL |
+| Jobs | ActiveJob |
+| Deployment | Railway |
 
-* Services (job queues, cache servers, search engines, etc.)
+---
 
-* Deployment instructions
+## ⚙️ Setup Instructions
 
-* ...
+### 🔧 Prerequisites
+
+- Ruby 3.2.9
+- Rails 7.2.3
+- PostgreSQL
+- Bundler
+
+---
+
+### 📦 Installation
+
+```bash
+git clone https://github.com/Ayushkumarsinghyogesh/Result_analyser.git
+cd result_analyser
+bundle install
+
+🗄️ Database Setup
+rails db:create
+rails db:migrate
+
+
