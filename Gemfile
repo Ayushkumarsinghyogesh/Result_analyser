@@ -19,7 +19,7 @@ group :development, :test do
   gem 'factory_bot_rails'
 end
 
-gem 'cgi', '~> 0.3'
+gem 'cgi', '~> 0.5'
 
 group :development do
   gem "web-console"
